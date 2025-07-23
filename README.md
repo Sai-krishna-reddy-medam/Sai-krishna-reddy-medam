@@ -9,7 +9,7 @@
 <h3 align="center">Aspirant AI Developer | Java Backend Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 🚀 Career Aspirations
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
 </p>
 
 🎯 To become a skilled **AI Engineer** and **Java Backend Developer** delivering scalable software solutions.  
@@ -62,11 +62,11 @@
 
 #### 📊 Interests & Learning
 
-- Java & Spring Boot
-- SQL & JDBC
-- Backend Systems Architecture
-- Problem Solving with DSA
-- Basics of AI & Cloud Infrastructure
+- Java & Spring Boot  
+- SQL & JDBC  
+- Backend Systems Architecture  
+- Problem Solving with DSA  
+- Basics of AI & Cloud Infrastructure  
 
 ---
 
@@ -105,4 +105,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F74CFF&center=true&vCenter=true&width=550&lines=Keep+Coding+%F0%9F%94%A5;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80" />
 </p>
-{Give me a code accordingly to my resume i am men }
