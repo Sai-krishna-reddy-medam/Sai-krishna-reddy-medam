@@ -16,7 +16,7 @@
 
 ### 🎯 About Me
 
-💡 I'm a Computer Science undergrad passionate about solving real-world problems through code.  
+💡 I'm a Computer Science graduated passionate about solving real-world problems through code.  
 📌 Focused on **Java, Spring Boot, SQL, and Backend Development** with keen interest in **AI & Cloud**.  
 🧠 Strong believer in structured design, clean code, and continuous learning.
 
